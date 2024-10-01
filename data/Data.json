@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"Headset1",
+        "des": "Item1",
+        "img":"./img/Item1.png"
+    },
+    {
+        "id":2,
+        "title":"Headset2",
+        "des": "2",
+        "img":"./img/Item2.png"
+    },
+    {
+        "id":3,
+        "title":"Headset3",
+        "des": "Item3",
+        "img":"./img/Item3.png"
+    },
+    {
+        "id":4,
+        "title":"Headset",
+        "des": "Item4",
+        "img":"./img/Item4.png"
+    },
+    {
+        "id":5,
+        "title":"Headset1",
+        "des": "Item5",
+        "img":"./img/Item5.png"
+    },
+    {
+        "id":6,
+        "title":"Headset1",
+        "des": "Item6",
+        "img":"./img/Item6.png"
+    }
+]
